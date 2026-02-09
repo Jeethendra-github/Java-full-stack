@@ -1,2 +1,2 @@
-# Java-full-stack
+# gitcommands
 intership in vvfgc college
